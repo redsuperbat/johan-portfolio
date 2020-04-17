@@ -1,0 +1,23 @@
+[
+  { "family": "viking", "name": "viking-4.jpg" },
+  { "family": "griffin", "name": "griffin-riders-1.jpg" },
+  { "family": "griffin", "name": "griffin-riders-2.jpg" },
+  { "family": "griffin", "name": "griffin-riders-3.jpg" },
+  { "family": "griffin", "name": "griffin-riders-4.jpg" },
+  { "family": "buildings", "name": "house-1.jpg", "class": "span-2" },
+  { "family": "buildings", "name": "house-0.jpg" },
+  { "family": "buildings", "name": "house-2.jpg" },
+  { "family": "buildings", "name": "house-3.jpg" },
+  { "family": "buildings", "name": "house-4.jpg" },
+  { "family": "buildings", "name": "house-5.jpg" },
+  { "family": "buildings", "name": "house-6.jpg" },
+  { "family": "medevial", "name": "medevial-0.jpg" },
+  { "family": "medevial", "name": "medevial-1.jpg" },
+  { "family": "medevial", "name": "medevial-2.jpg" },
+  { "family": "medevial", "name": "medevial-3.jpg" },
+  { "family": "medevial", "name": "medevial-4.jpg" },
+  { "family": "medevial", "name": "medevial-5.jpg" },
+  { "family": "viking", "name": "viking-1.jpg" },
+  { "family": "viking", "name": "viking-2.jpg" },
+  { "family": "viking", "name": "viking-3.jpg" }
+]
