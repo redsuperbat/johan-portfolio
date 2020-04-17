@@ -1,4 +1,4 @@
-# johan-portfolio
+# Johan Portfolio
 
 ## Project setup
 ```
@@ -9,16 +9,6 @@ npm install
 ```
 npm run serve
 ```
+### Description
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Portfolio site i made for my friend. It's purpose is to display the images he has created to potential clients.
